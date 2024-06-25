@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMS
-//                                    IBRAHIM TECH BEST TECH EVER
+//                              KYPHER_MD ..., MADE BY KYPHER
+//                                    KYPHER_TECH TEST 1
 //
 //════════════════════════════//
 
